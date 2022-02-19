@@ -25,6 +25,7 @@
 	<h2>
 		try editing <strong>src/routes/index.svelte</strong>
 	</h2>
+	<h3> C'est moi</h3>
 
 	<Counter />
 </section>
